@@ -1,3 +1,6 @@
+![alt text](./sample.png)
+
+
 ###MetaTraderFs
 MetaTraderでFXの取引を個人的に楽にするスクリプトなど
 
