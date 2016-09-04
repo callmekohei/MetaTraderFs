@@ -1,11 +1,11 @@
 #property strict
 #property indicator_chart_window
 #property indicator_buffers 5
-#property indicator_color1 Pink
-#property indicator_color2 Aqua
+#property indicator_color1 Aqua
+#property indicator_color2 Yellow
 #property indicator_color3 Red
-#property indicator_color4 LightSeaGreen
-#property indicator_color5 LightSeaGreen
+#property indicator_color4 Sienna
+#property indicator_color5 Sienna
 
 double ema10Buffer[];
 double sma13Buffer[];
