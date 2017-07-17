@@ -1,30 +1,17 @@
-![alt text](./sample.png)
+[![MIT-LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/callmekohei/MetaTraderFs/blob/master/LICENSE)
 
+# MetaTraderFs
+Bollinger Band + EMA10, SMA13, EMA25 and Grid
 
-###MetaTraderFs
-MetaTraderでFXの取引を個人的に楽にするスクリプトなど
-
-###Install
+### Install
 ```
 $ git install https://github.com/callmekohei/MetaTraderFs
 ```
 
-###Illustration
-```
-(^_^) [MetaTraderFs] $ tree
-.
-├── README.md
-└── code
-    ├── BandsCustomed.mq4 // Bollinger Band + EMA10, SMA13, EMA25
-    ├── Grid.mq4          // Grid
-    └── metatraderFs.fs   // DLL
-```
+### Like this
+![alt text](./sample.png)
 
-###Tips
-windows上でDLLを作る必要があります
+### Tips for creating DLL
+requring Windows
 
-target cpu を 32bit にする必要があります
-
-###License
-This software is released under the MIT License.
-
+target cpu : 32bit
